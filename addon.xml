@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.itzonetv" name="ITZONE TV Voucher Repository" version="1.0.0" provider-name="ITZONE MG">
-    <extension point="xbmc.addon.repository">
-        <dir>
-            <info compressed="false">https://raw.githubusercontent.com/D3ds3c007/repository.itzonetv/refs/heads/master/addon.xml</info>
-            <checksum>https://raw.githubusercontent.com/D3ds3c007/repository.itzonetv/refs/heads/master/addon.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/zips/</datadir>
-            <hashes>false</hashes>
-        </dir>
-    </extension>
-</addon>
+    <addon id="repository.itzonetv" name="ITZONE TV Voucher Repository" version="1.0.0" provider-name="ITZONE MG">
+        <extension point="xbmc.addon.repository">
+            <dir>
+                <info>https://raw.githubusercontent.com/D3ds3c007/repository.itzonetv/refs/heads/master/addon.xml</info>
+                <checksum>https://raw.githubusercontent.com/D3ds3c007/repository.itzonetv/refs/heads/master/addon.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/zips/</datadir>
+                <hashes>false</hashes>
+            </dir>
+        </extension>
+    </addon>
 <addons>
