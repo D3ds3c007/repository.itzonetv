@@ -2,7 +2,7 @@
     <extension point="xbmc.addon.repository">
           <info>https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/addon.xml</info>
           <checksum>https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/addon.xml.md5</checksum>
-          <datadir>https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/zips/</datadir>
+          <dir>https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/zips/</dir>
           <hashes>false</hashes>
     </extension>
 </addon>
