@@ -2,7 +2,7 @@
     <extension point="xbmc.addon.repository">
         <summary>IPTV Voucher Renewal Addon Repository</summary>
         <description>Repository for ITZONE TV Voucher Renewal addon updates</description>
-        <url>https://github.com/yourusername/plugin.video.iptvvoucher</url> <!-- URL to your plugin repo -->
+        <url>https://github.com/D3ds3c007/plugin.video.iptvvoucher</url> <!-- URL to your plugin repo -->
         <default>Addons</default>
     </extension>
 </addon>
