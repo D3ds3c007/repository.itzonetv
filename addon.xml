@@ -5,6 +5,6 @@
             <checksum>https://raw.githubusercontent.com/D3ds3c007/repository.itzonetv/refs/heads/master/addon.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/D3ds3c007/plugin.video.itzontv/refs/heads/main/zips/</datadir>
             <hashes>false</hashes>
-        <dir>
+        </dir>
     </extension>
 </addon>
